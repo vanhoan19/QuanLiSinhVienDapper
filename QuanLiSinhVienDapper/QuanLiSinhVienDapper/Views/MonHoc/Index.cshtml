@@ -1,0 +1,57 @@
+﻿@model IEnumerable<QuanLiSinhVienDapper.Models.MonHoc>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Danh sách môn học</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.MaMH)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TenMon)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SoTiet)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TiLeDTP)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TiLeDQT)
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.MaMH)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TenMon)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SoTiet)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TiLeDTP)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TiLeDQT)
+        </td>
+        @*<td>
+            @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+        </td>*@
+    </tr>
+}
+
+</table>

@@ -1,0 +1,166 @@
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\QuanLiSinhVienDapper.dll.config
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\QuanLiSinhVienDapper.dll
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\QuanLiSinhVienDapper.pdb
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\csc.exe
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\csc.exe.config
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\csc.rsp
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\csi.exe
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\csi.exe.config
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\csi.rsp
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.AppContext.dll
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.Collections.Immutable.dll
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.Console.dll
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.Globalization.Calendars.dll
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.IO.Compression.dll
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.IO.FileSystem.dll
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.Net.Http.dll
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.Net.Sockets.dll
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.Reflection.Metadata.dll
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.ValueTuple.dll
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.Xml.XPath.dll
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\vbc.exe
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\vbc.exe.config
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\vbc.rsp
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\VBCSCompiler.exe
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\VBCSCompiler.exe.config
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\Antlr3.Runtime.dll
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\Dapper.dll
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\Microsoft.Web.Infrastructure.dll
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\Newtonsoft.Json.dll
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\System.Web.Helpers.dll
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\System.Web.Mvc.dll
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\System.Web.Optimization.dll
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\System.Web.Razor.dll
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\System.Web.WebPages.Deployment.dll
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\System.Web.WebPages.dll
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\System.Web.WebPages.Razor.dll
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\WebGrease.dll
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\Dapper.xml
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\System.Web.Helpers.xml
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\System.Web.Mvc.xml
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\System.Web.Optimization.xml
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\System.Web.Razor.xml
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\System.Web.WebPages.xml
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\System.Web.WebPages.Deployment.xml
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\System.Web.WebPages.Razor.xml
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\Newtonsoft.Json.xml
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\Antlr3.Runtime.pdb
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\obj\Debug\QuanLiSinhVienDapper.csproj.AssemblyReference.cache
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\obj\Debug\QuanLiSinhVienDapper.csproj.CoreCompileInputs.cache
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\obj\Debug\QuanLiSinhVienDapper.csproj.CopyComplete
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\obj\Debug\QuanLiSinhVienDapper.dll
+E:\Bài tập Intern C#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\obj\Debug\QuanLiSinhVienDapper.pdb
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\QuanLiSinhVienDapper.dll.config
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\QuanLiSinhVienDapper.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\QuanLiSinhVienDapper.pdb
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\csc.exe
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\csc.exe.config
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\csc.rsp
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\csi.exe
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\csi.exe.config
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\csi.rsp
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\Microsoft.Managed.Core.targets
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.AppContext.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.Collections.Immutable.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.Console.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.Globalization.Calendars.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.IO.Compression.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.IO.FileSystem.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.Net.Http.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.Net.Sockets.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.Reflection.Metadata.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.ValueTuple.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.Xml.XmlDocument.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.Xml.XPath.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\vbc.exe
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\vbc.exe.config
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\vbc.rsp
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\VBCSCompiler.exe
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\roslyn\VBCSCompiler.exe.config
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\Antlr3.Runtime.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\Castle.Core.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\Castle.Windsor.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\Dapper.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\Microsoft.Web.Infrastructure.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\Newtonsoft.Json.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\System.Web.Helpers.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\System.Web.Mvc.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\System.Web.Optimization.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\System.Web.Razor.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\System.Web.WebPages.Deployment.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\System.Web.WebPages.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\System.Web.WebPages.Razor.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\WebGrease.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\Castle.Core.xml
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\Castle.Windsor.xml
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\Dapper.xml
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\System.Web.Helpers.xml
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\System.Web.Mvc.xml
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\System.Web.Optimization.xml
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\System.Web.Razor.xml
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\System.Web.WebPages.xml
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\System.Web.WebPages.Deployment.xml
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\System.Web.WebPages.Razor.xml
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\Newtonsoft.Json.xml
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\Antlr3.Runtime.pdb
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\obj\Debug\QuanLiSinhVienDapper.csproj.AssemblyReference.cache
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\obj\Debug\QuanLiSinhVienDapper.csproj.CoreCompileInputs.cache
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\obj\Debug\QuanLiSinhVienDapper.csproj.CopyComplete
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\obj\Debug\QuanLiSinhVienDapper.dll
+E:\BTapInternC#.NET\QuanLiSinhVienDapper\QuanLiSinhVienDapper\obj\Debug\QuanLiSinhVienDapper.pdb

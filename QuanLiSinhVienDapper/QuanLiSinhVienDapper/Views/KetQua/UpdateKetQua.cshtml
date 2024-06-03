@@ -1,0 +1,76 @@
+﻿@model List<QuanLiSinhVienDapper.Models.KetQua>
+@{
+    ViewBag.Title = "Nhập điểm";
+}
+
+<select id="selectMonHoc" style="margin: 20px">
+    <option value="All">--- Tất cả môn học ---</option>
+    @foreach (var mh in ViewBag.MonHoc)
+    {
+        <option value="@mh.Value" @(ViewBag.MaMH == mh.Value ? "selected" : "") >@mh.Text</option>
+    }
+</select>
+<div id="content">
+    <form action="/KetQua/Update" method="post">
+        @Html.AntiForgeryToken()
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">MSV</th>
+                    <th scope="col">Tên SV</th>
+                    <th scope="col">Môn học</th>
+                    <th scope="col">Điểm QT</th>
+                    <th scope="col">Điểm TP</th>
+                    <th scope="col">Trạng thái</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model != null)
+                {
+                    for (int i = 0; i < Model.Count; i++)
+                    {
+                        <tr>
+                            <th scope="row">
+                                @Html.HiddenFor(m => Model[i].MaSV)
+                                @Model[i].MaSV
+                            </th>
+                            <th scope="row">
+                                @Model[i].TenSV
+                            </th>
+                            <th scope="row">
+                                @Html.HiddenFor(m => Model[i].MaMH)
+                                @Model[i].TenMon
+                            </th>
+                            <th scope="row">
+                                @Html.EditorFor(model => Model[i].DQT)
+                                @*@Html.TextBoxFor(s => Model[i].DQT)*@
+                            </th>
+                            <th scope="row">
+                                @Html.EditorFor(model => Model[i].DTP)
+                                @*@Html.TextBoxFor(s => Model[i].DTP)*@
+                            </th>
+                            <th scope="row">
+                                @Html.DisplayTextFor(s => Model[i].TrangThai)
+                                @Html.HiddenFor(s => Model[i].DiemTong)
+                                @Html.HiddenFor(s => Model[i].TrangThai)
+                            </th>
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+        <input type="submit" style="background-color: lightblue; margin: auto; display: block;" name="Update" value="Update" />
+    </form>
+</div>
+@section Scripts{
+    <script>
+
+        $("#selectMonHoc").change(function () {
+            var selectedValue = $(this).val();
+            window.location.href = "/KetQua/UpdateKetQua?MaMH=" + selectedValue;
+        })
+
+    </script>
+}
+
+
